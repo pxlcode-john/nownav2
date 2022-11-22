@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Unexus-7ctnbi.us-east-1.xata.sh/db/nowna",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
